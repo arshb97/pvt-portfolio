@@ -16,7 +16,8 @@ const Footer = () => {
     const renderSocials = () => {
         const socials = [
             { name: 'Github', icon: 'ti-github', 
-            url: 'https://github.com/arshb97' },
+            // url: 'https://github.com/arshb97' 
+            },
             {
                 name: 'Facebook',
                 icon: 'ti-facebook',
