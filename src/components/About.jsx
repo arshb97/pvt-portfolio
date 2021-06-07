@@ -86,8 +86,7 @@ const About = () => {
     return (
         <div className="about">
             <div className="about__inner">
-                <h2 className="about__title">Hello, I&apos;m Arshdeep. Nice to meet you 👋🏼</h2>
-
+                <h2 className="about__title">Hello, I&apos;m Ashley Browne. Nice to meet you 👋🏼</h2>
                 <p className="about__text">{description}</p>
 
                 {/* <a href="https://drive.google.com/file/d/1-K1FP2vYdJmHlSWPcmoBKnT2Mu5EbTvA/view?usp=sharing" target="_blank" className="about__cv">
