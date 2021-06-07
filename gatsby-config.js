@@ -1,10 +1,10 @@
 module.exports = {
     // Autoload the site metadata.
     siteMetadata: {
-        title: 'Arshdeep Bhullar | Embedded Systems & Full Stack Developer',
+        title: 'Ashley Browne | Embedded Systems & Full Stack Developer',
         description:
             'Developer, Designer & tech enthusiast from Vancouver',
-        author: 'Arshdeep Bhullar',
+        author: 'Ashley Browne',
         image: '/favicon.jpg',
     },
 
@@ -23,7 +23,7 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: 'Arshdeep Bhullar',
+                name: 'Ashley Bhullar',
                 short_name: 'AB',
                 start_url: '/',
                 background_color: '#FFFFFF',

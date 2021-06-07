@@ -1,12 +1,12 @@
 {
     "name": "ab-portfolio",
-    "description": "Website for Arshdeep Bhullar, built with Gatsby JS and hosted on Netlify",
+    "description": "Website for Ashley Browne, built with Gatsby JS and hosted on Netlify",
     "version": "2.0.0",
     "private": false,
     "license": "MIT",
     "author": {
-        "name": "Arshdeep Bhullar",
-        "url": "https://arshbhullar.netlify.app"
+        "name": "Ashley Browne",
+        "url": "https://ashleybrowne.netlify.app"
     },
     "repository": {
         "type": "git",
