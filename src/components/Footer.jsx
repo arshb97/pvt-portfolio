@@ -15,23 +15,27 @@ const Footer = () => {
 
     const renderSocials = () => {
         const socials = [
-            { name: 'Github', icon: 'ti-github', url: 'https://github.com/arshb97' },
+            { name: 'Github', icon: 'ti-github', 
+            url: 'https://github.com/arshb97' },
             {
                 name: 'Facebook',
                 icon: 'ti-facebook',
-                url: 'https://www.facebook.com/rock.on.98871174'
+                // url: 'https://www.facebook.com/rock.on.98871174'
             },
             {
                 name: 'Instagram',
                 icon: 'ti-instagram',
-                url: 'https://www.instagram.com/arsh_bhullar97/'
+                // url: 'https://www.instagram.com/arsh_bhullar97/'
             },
             {
                 name: 'LinkedIn',
                 icon: 'ti-linkedin',
-                url: 'https://www.linkedin.com/in/arshdeep-singh-bhullar-138132128'
+                // url: 'https://www.linkedin.com/in/arshdeep-singh-bhullar-138132128'
             },
-            { name: 'Twitter', icon: 'ti-twitter', url: 'https://twitter.com/arshdeepbhullar' }
+            { name: 'Twitter', 
+              icon: 'ti-twitter',
+            //   url: 'https://twitter.com/arshdeepbhullar' 
+             }
         ];
         return socials.map(social => (
             <a
